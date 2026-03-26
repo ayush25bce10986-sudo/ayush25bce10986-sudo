@@ -15,7 +15,7 @@
 - Python
 - react.js
 
-## Hbbies
+## Hobbies
 - Graphic Designing
 - Vedio Editing
 
